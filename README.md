@@ -3,7 +3,7 @@
 
 
 <p>
-    <img src="https://github.com/amr882/LiquidSideMenu/blob/main/assets/gif.gif?raw=true" />
+    <img src="https://github.com/amr882/LiquidSideMenu/blob/main/assets/gif_screen.gif?raw=true" />
 </p>
 
 
