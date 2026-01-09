@@ -37,7 +37,7 @@ dependencies:
           SideMenuItem(onTap: () {}, text: "HELP"),
           SideMenuItem(onTap: () {}, text: "LOGOUT"),
         ],
-        child: Container(),
+        child: HomePage(),
       ),
 
 ```
